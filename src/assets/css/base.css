@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  height: 100%;
+}
+#app{
+  height: 100%;
+}
+.wrap{
+  padding-top: 46px;
+  padding-bottom: 50px;
+  background: #E9ECF0;
+  height: 100%;
+}
+
